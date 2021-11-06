@@ -155,7 +155,7 @@ crear("Argentina");
 crear("auto");
 
 // comprobar que el string de parametro mida al menos 6 caracteres
-// Ejercicio Nº10
+
 
 console.log("Ejercicio 10");
 
@@ -171,8 +171,9 @@ function comprobar(string){
 comprobar("Termotanque");
 comprobar("pc");
 
+// Ejercicio Nº10
 // Crear una función que tome dos strings y los concatene sin las primeras 2 letras
-// Ejercicio Nº11
+
 
 console.log("Ejercicio 11");
 
@@ -192,6 +193,7 @@ function concat(string1,string2){
 concat("jose","moto");
 concat("bigote","pokemon");
 
+// Ejercicio Nº11
 // Comprobar entre dos valores cual es mas cercano al 100
 
 console.log("Ejercicio 12");
@@ -211,3 +213,5 @@ cercano(80,70);
 cercano(101,80);
 cercano(50,50);
 cercano(-1,-8);
+
+
